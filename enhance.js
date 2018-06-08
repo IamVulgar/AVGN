@@ -936,7 +936,7 @@ window.cytubeEnhanced.addModule('additionalChatCommands', function (app, setting
 
                 if (IS_COMMAND) {
                     window.socket.emit("chatMsg", {msg: msg, meta: meta});
-                    window.socket.emit("chatMsg", {msg: 'K-9: ' + msgForCommand});
+                    window.socket.emit("chatMsg", {msg: 'Shit Pickle: ' + msgForCommand});
 
                     IS_COMMAND = false;
                 } else {
