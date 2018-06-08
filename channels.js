@@ -9,10 +9,10 @@ $("#main").after(
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/B9tE5wH.jpg" class="kek" /></a>' +
-'<a href="https://cytu.be/r/MightyMorphinPowerRangers"><img src="https://i.imgur.com/VNec4Cg.jpg" class="kek" /></a>' +
- '<a href="https://cytu.be/r/I_love_the_90s"><img src="https://i.imgur.com/FHp29RV.jpg" class="kek" /></a>' +
- '<a href="https://cytu.be/r/TheArrow"><img src="https://i.imgur.com/O2RxYKE.jpg" class="kek" /></a>' +
- '<a href="https://cytu.be/r/TheFlash"><img src="https://i.imgur.com/FxVwMhM.jpg" class="kek" /></a>' +
+'<a href=""><img src="" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>' +
