@@ -8,11 +8,11 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
- '<a href=""><img src="" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/JamesRolfe_AVGN"><img src="https://i.imgur.com/UqqKfa2.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/DragonBallAbridged"><img src="http://4.bp.blogspot.com/-LoB8IQFDvs4/VinM4AgWI4I/AAAAAAAAFRM/Ee2HPE0g3xo/s1600/Full%2BHD%2B1080%2BPx.png" class="kek" /></a>' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="http://4.bp.blogspot.com/-LoB8IQFDvs4/VinM4AgWI4I/AAAAAAAAFRM/Ee2HPE0g3xo/s1600/Full%2BHD%2B1080%2BPx.png" class="kek" /></a>' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="http://4.bp.blogspot.com/-LoB8IQFDvs4/VinM4AgWI4I/AAAAAAAAFRM/Ee2HPE0g3xo/s1600/Full%2BHD%2B1080%2BPx.png" class="kek" /></a>' +
- '<a href=""><img src="" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/JamesRolfe_AVGN"><img src="https://i.imgur.com/5uU60Hp.png" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>' +
