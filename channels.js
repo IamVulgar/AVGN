@@ -8,7 +8,7 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
- '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/B9tE5wH.jpg" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
